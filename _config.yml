@@ -16,7 +16,7 @@ weibo_username:     疯子不太会说话
 zhihu_username:     AllitWell
 github_username:    clandence
 #twitter_username:  huxpro
-facebook_username:  facebook_name
+#facebook_username:  facebook_name
 linkedin_username:  linkedinname-lastname-idxxxx
 
 
@@ -93,5 +93,5 @@ friends: [
         title: "Su",
         href: "http://su.gallery/"
     }
-    
+   
 ]
