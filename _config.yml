@@ -3,7 +3,7 @@ title: AllitWell Blog
 SEOTitle: 林智峰的博客 | AllitWell Blog
 header-img: img/home-bg-city.jpg
 email: clandence@gmail.com
-description: "喜欢科技 | 这是description2  | 这是description3 "
+description: "喜欢科技"
 keyword: "林智峰，关键字"
 url: "https://clandence.github.com"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
@@ -51,7 +51,7 @@ kramdown:
 #disqus_username: _your_disqus_short_name_
 
 # Duoshuo settings
-duoshuo_username: huxblog
+duoshuo_username: _AllitWell_
 # Share component is depend on Comment so we can NOT use share only.
 duoshuo_share: true                     # set to false if you want to use Comment without Sharing
 
@@ -63,9 +63,8 @@ duoshuo_share: true                     # set to false if you want to use Commen
 # ba_track_id: [your track id]
 
 # Google Analytics
-ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
-ga_domain: huangxuan.me
-
+ga_track_id: 'UA-94072744-1'            # Format: UA-xxxxxx-xx
+ga_domain: auto
 
 
 # Sidebar settings
